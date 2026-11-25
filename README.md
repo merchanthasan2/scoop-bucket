@@ -1,12 +1,12 @@
-# Scoop Bucket for merchanthasan2
+# NetSpeed Boss Scoop Bucket
 
-Personal [Scoop](https://scoop.sh) bucket for Windows apps by [@merchanthasan2](https://github.com/merchanthasan2).
+Official [Scoop](https://scoop.sh) bucket for **NetSpeed Boss**.
 
 ## Install
 
 ```powershell
-scoop bucket add merchanthasan2 https://github.com/merchanthasan2/scoop-bucket
-scoop install merchanthasan2/netspeedboss
+scoop bucket add netspeedboss https://github.com/merchanthasan2/scoop-bucket
+scoop install netspeedboss
 ```
 
 ## Available Packages
